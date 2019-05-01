@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PlanMyTrip</string>
+    <string name="title_activity_weather_list">WeatherListActivity</string>
+    <string name="berlin_details">Berlin is the capital and largest city of Germany by both area and population. Its 3,748,148  inhabitants make it the second most populous city proper of the European Union after London. The city is one of Germany\'s 16 federal states. It is surrounded by the state of Brandenburg, and contiguous with its capital, Potsdam. The two cities are at the center of the Berlin-Brandenburg capital region, which is, with about six million inhabitants and an area of more than 30,000 km², Germany\'s third-largest metropolitan region after the Rhine-Ruhr and Rhine-Main regions.</string>
+    <string name="london_details">London is the capital and largest city of both England and the United Kingdom.Standing on the River Thames in the south-east of England, at the head of its 50-mile (80 km) estuary leading to the North Sea, London has been a major settlement for two millennia. Londinium was founded by the Romans.The City of London, London\'s ancient core − an area of just 1.12 square miles (2.9 km2) and colloquially known as the Square Mile − retains boundaries that follow closely its medieval limits. The City of Westminster is also an Inner London borough holding city status. Greater London is governed by the Mayor of London and the London Assembly</string>
+    <string name="paris_details">Paris is located in northern central France, in a north-bending arc of the river Seine whose crest includes two islands, the Île Saint-Louis and the larger Île de la Cité, which form the oldest part of the city. The river\'s mouth on the English Channel (La Manche) is about 233 mi (375 km) downstream from the city</string>
+    <string name="majoraca_details"> Majorca is the largest island in the Balearic Islands, which are part of Spain and located in the Mediterranean. The native language, as on the rest of the Balearic Islands, is Catalan, which is co-official with Spanish.
+
+The capital of the island, Palma, is also the capital of the autonomous community of the Balearic Islands. The Balearic Islands have been an autonomous region of Spain since 1983.[4] There are two small islands off the coast of Mallorca: Cabrera (southeast of Palma) and Dragonera (west of Palma). The anthem of Mallorca is "La Balanguera".</string>
+    <string name="title_activity_excursion_details">ExcursionDetailsActivity</string>
+    <string name="title_activity_my_excursion_details">MyExcursionDetails</string>
+
+</resources>
